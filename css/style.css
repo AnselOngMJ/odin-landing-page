@@ -69,3 +69,39 @@ button {
     align-items: center;
     flex: 5;
 }
+
+.information {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.information-header {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 700;
+    padding: 48px;
+}
+
+.information-container {
+    display: flex;
+    gap: 72px;
+}
+
+.information-tile {
+    width: 175px;
+}
+
+.subtext {
+    font-size: 18px;
+    color: #535d6a;
+    text-align: center;
+}
+
+.information-image {
+    height: 175px;
+    width: 100%;
+    border: 5px solid #3882F6;
+    border-radius: 10%;
+}
