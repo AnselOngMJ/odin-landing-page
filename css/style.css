@@ -121,7 +121,7 @@ button {
     font-weight: 300;
     font-style: italic;
     color: #1F2937;
-    padding: 100px 500px 0;
+    padding: 100px 15% 0;
 }
 
 .quotee {
@@ -134,7 +134,7 @@ button {
 
 .call-to-action {
     background-color: #F9FAF8;
-    padding: 120px 375px;
+    padding: 120px 15%;
 }
 
 .banner {
